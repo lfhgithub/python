@@ -1,5 +1,5 @@
 Current anaconda has PyQt5 instead of 4. This is what worked for me:
-
+Tutorial Sentdex Link: https://www.youtube.com/watch?v=FSH77vnOGqU
 
 import sys
 import bs4 as bs
